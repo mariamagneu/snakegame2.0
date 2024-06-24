@@ -1,2 +1,2 @@
 const gameScreen = document.querySelector("#gamescreen");
-const game = new Game(gameScreen);
+const game = new Game(gameScreen, 20, 20);
